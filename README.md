@@ -63,9 +63,10 @@ This is a ScalaFX implementation of the classic Battleship game, where two playe
 - **FXML**: Used for defining UI components
 - **CSS3**: Used for styling UI components
 
-## Screenshots
+## Screenshots and Video
 
-_To Be Included_
+- DEMO: [YouTube Link](https://youtu.be/1M46qy8yi3k?si=iRzgL5BaECsx5W7U)
+- IMAGES: _To Be Included_
 
 ## Contributors
 - **Siew Jun Zhen** – [GitHub](https://github.com/yourusername)
